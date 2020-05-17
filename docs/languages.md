@@ -84,6 +84,7 @@ The 113 supported languages and accents are:
 | `art`       | `jbo`             | Constructed           | Lojban                      |                        |
 | `poz`       | `mi`              | Malayo-Polynesian     | Māori                       |                        |
 | `zls`       | `mk`              | South Slavic          | Macedonian                  |                        |
+| `poz`       | `mg`              | Malayo-Polynesian     | Malagasy                    |                        |
 | `poz`       | `ms`              | Malayo-Polynesian     | Malay                       |                        |
 | `dra`       | `ml`              | Dravidian             | Malayalam                   |                        |
 | `sem`       | `mt`              | Semitic               | Maltese                     |                        |
